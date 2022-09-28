@@ -10,6 +10,7 @@ public class Hrmtestcase1 extends Baseclass {
 	public void HRassistancetc()
 	{
 		+ramanagar
+		+chenapatna
 		hm.MouseHover(dri);
 		hm.addbutton();
 		addemp.addingcomid( empid );
