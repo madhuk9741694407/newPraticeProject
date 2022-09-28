@@ -9,6 +9,9 @@ public class Hrmtestcase1 extends Baseclass {
 	@Test(groups="sanity")
 	public void HRassistancetc()
 	{
+all_new_branches_final
+		
+=======
  worker_2_branch
 		
 		
@@ -16,6 +19,7 @@ public class Hrmtestcase1 extends Baseclass {
 
 
 		////
+ master
  master
 		hm.MouseHover(dri);
 		hm.addbutton();
