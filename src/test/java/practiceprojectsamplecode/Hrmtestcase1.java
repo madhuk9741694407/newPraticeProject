@@ -11,8 +11,7 @@ public class Hrmtestcase1 extends Baseclass {
 	{
 		
 		
-		+madhu
-		+maddur mad
+		_manglore
 		hm.MouseHover(dri);
 		hm.addbutton();
 		addemp.addingcomid( empid );
